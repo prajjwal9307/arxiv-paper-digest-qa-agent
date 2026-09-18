@@ -1,6 +1,6 @@
 # Autonomous arXiv Paper Digest & QA Agent
 
-A small, interview-friendly AI internship assessment project that turns an arXiv paper into an executive briefing and then answers questions using grounded RAG.
+A Project that turns an arXiv paper into an executive briefing and then answers questions using grounded RAG.
 
 ## What it does
 
